@@ -1,0 +1,15 @@
+html{
+  background-color: aquamarine
+}
+
+col-sm-6 mx-auto{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+input[type="text"]{
+  background: transparent
+}
+
+input[type="text"]:focus{
+  background: whitesmoke
+}
